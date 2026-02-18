@@ -1,0 +1,4 @@
+project_id = "myenerznfogjridlmjrc"
+
+[functions.analyze-curriculum]
+verify_jwt = false
